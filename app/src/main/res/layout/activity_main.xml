@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.yourewinner.xfinitywifi.MainActivity">
+
+    <Button
+        android:id="@+id/start_wifi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?android:attr/colorBackground"
+        android:layout_centerInParent="true"
+        android:text="@string/start_wifi"
+        android:textSize="18sp" />
+
+</RelativeLayout>

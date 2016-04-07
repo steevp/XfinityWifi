@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Xfinity Wifi</string>
+    <string name="start_wifi">Tap to start wifi</string>
+    <string name="loading">Starting Wifi…</string>
+    <string name="success">Success!</string>
+    <string name="failure">Failure!</string>
+</resources>
